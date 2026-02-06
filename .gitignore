@@ -1,6 +1,7 @@
 
 # Maven
 target/
+repository/
 
 # IntelliJ IDEA
 .idea/
