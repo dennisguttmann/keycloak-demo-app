@@ -68,14 +68,7 @@ cd ..
 docker-compose restart keycloak
 ```
 
-### 3. Access Applications
-
-- **Spring Boot App**: http://localhost:8088
-- **Keycloak Admin Console**: http://keycloak:8080/admin
-  - Username: `admin` / Password: `admin`
-- **Keycloak Account Console**: http://keycloak:8080/realms/demo/account
-
-## 🔐 Authentication Flow
+### 3. Authentication Flow
 
 ### Standard Login
 1. Navigate to http://localhost:8088
